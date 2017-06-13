@@ -1,2 +1,3 @@
 # EasilyLocation
-Angular 1.x - 
+
+Projet découverte authentification twitter.
